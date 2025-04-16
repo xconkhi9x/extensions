@@ -5934,16 +5934,22 @@
   {
     "name": "Tachiyomi: PornPics",
     "pkg": "eu.kanade.tachiyomi.extension.all.pornpics",
-    "apk": "tachiyomi-all.pornpics-v1.4.1.apk",
+    "apk": "tachiyomi-all.pornpics-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
         "name": "PornPics",
-        "lang": "all",
+        "lang": "en",
         "id": "1459635082044256286",
+        "baseUrl": "https://www.pornpics.com"
+      },
+      {
+        "name": "PornPics",
+        "lang": "zh",
+        "id": "7079014519404224786",
         "baseUrl": "https://www.pornpics.com"
       }
     ]
@@ -13079,10 +13085,10 @@
   {
     "name": "Tachiyomi: ReadComicOnline",
     "pkg": "eu.kanade.tachiyomi.extension.en.readcomiconline",
-    "apk": "tachiyomi-en.readcomiconline-v1.4.30.apk",
+    "apk": "tachiyomi-en.readcomiconline-v1.4.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "sources": [
       {
