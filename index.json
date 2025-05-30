@@ -7019,6 +7019,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Xiutaku",
+    "pkg": "eu.kanade.tachiyomi.extension.all.xiutaku",
+    "apk": "tachiyomi-all.xiutaku-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Xiutaku",
+        "lang": "all",
+        "id": "6520733892888572506",
+        "baseUrl": "https://xiutaku.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: xkcd",
     "pkg": "eu.kanade.tachiyomi.extension.all.xkcd",
     "apk": "tachiyomi-all.xkcd-v1.4.13.apk",
@@ -14097,10 +14114,10 @@
   {
     "name": "Tachiyomi: SpyFakku",
     "pkg": "eu.kanade.tachiyomi.extension.en.spyfakku",
-    "apk": "tachiyomi-en.spyfakku-v1.4.10.apk",
+    "apk": "tachiyomi-en.spyfakku-v1.4.11.apk",
     "lang": "en",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "sources": [
       {
@@ -15820,10 +15837,10 @@
   {
     "name": "Tachiyomi: Jeaz Scans",
     "pkg": "eu.kanade.tachiyomi.extension.es.jeazscans",
-    "apk": "tachiyomi-es.jeazscans-v1.4.45.apk",
+    "apk": "tachiyomi-es.jeazscans-v1.4.47.apk",
     "lang": "es",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "sources": [
       {
@@ -20416,19 +20433,19 @@
         "name": "늑대닷컴 - 웹툰",
         "lang": "ko",
         "id": "5583626852311652499",
-        "baseUrl": "https://wfwf391.com"
+        "baseUrl": "https://wfwf392.com"
       },
       {
         "name": "늑대닷컴 - 만화책",
         "lang": "ko",
         "id": "7074060458114951398",
-        "baseUrl": "https://wfwf391.com"
+        "baseUrl": "https://wfwf392.com"
       },
       {
         "name": "늑대닷컴 - 포토툰",
         "lang": "ko",
         "id": "4225505094399546613",
-        "baseUrl": "https://wfwf391.com"
+        "baseUrl": "https://wfwf392.com"
       }
     ]
   },
@@ -20656,10 +20673,10 @@
   {
     "name": "Tachiyomi: Aurora Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.aurorascan",
-    "apk": "tachiyomi-pt.aurorascan-v1.4.2.apk",
+    "apk": "tachiyomi-pt.aurorascan-v1.4.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "sources": [
       {
@@ -21523,10 +21540,10 @@
   {
     "name": "Tachiyomi: Maid Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.maidscan",
-    "apk": "tachiyomi-pt.maidscan-v1.4.47.apk",
+    "apk": "tachiyomi-pt.maidscan-v1.4.48.apk",
     "lang": "pt-BR",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 1,
     "sources": [
       {
@@ -21676,10 +21693,10 @@
   {
     "name": "Tachiyomi: Mediocre Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mediocretoons",
-    "apk": "tachiyomi-pt.mediocretoons-v1.4.2.apk",
+    "apk": "tachiyomi-pt.mediocretoons-v1.4.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "sources": [
       {
@@ -21840,6 +21857,23 @@
         "lang": "pt-BR",
         "id": "9002071416352882483",
         "baseUrl": "https://nekotoons.site"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Next Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.nextscan",
+    "apk": "tachiyomi-pt.nextscan-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Next Scan",
+        "lang": "pt-BR",
+        "id": "8894903238389784236",
+        "baseUrl": "https://nextscan.cloud"
       }
     ]
   },
@@ -22305,10 +22339,10 @@
   {
     "name": "Tachiyomi: Sussy Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sussyscan",
-    "apk": "tachiyomi-pt.sussyscan-v1.4.58.apk",
+    "apk": "tachiyomi-pt.sussyscan-v1.4.59.apk",
     "lang": "pt-BR",
-    "code": 58,
-    "version": "1.4.58",
+    "code": 59,
+    "version": "1.4.59",
     "nsfw": 1,
     "sources": [
       {
@@ -22509,10 +22543,10 @@
   {
     "name": "Tachiyomi: Wind Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.windscan",
-    "apk": "tachiyomi-pt.windscan-v1.4.43.apk",
+    "apk": "tachiyomi-pt.windscan-v1.4.44.apk",
     "lang": "pt-BR",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 1,
     "sources": [
       {
@@ -23546,17 +23580,17 @@
   {
     "name": "Tachiyomi: Moodtoon",
     "pkg": "eu.kanade.tachiyomi.extension.th.moodtoon",
-    "apk": "tachiyomi-th.moodtoon-v1.4.30.apk",
+    "apk": "tachiyomi-th.moodtoon-v1.4.31.apk",
     "lang": "th",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "sources": [
       {
         "name": "Moodtoon",
         "lang": "th",
         "id": "8560199796461456661",
-        "baseUrl": "https://moodtoon.net"
+        "baseUrl": "https://moon-toon.com"
       }
     ]
   },
@@ -23625,6 +23659,23 @@
         "lang": "th",
         "id": "2123874844305574539",
         "baseUrl": "https://www.ntr-manga.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: OneManga",
+    "pkg": "eu.kanade.tachiyomi.extension.th.onemanga",
+    "apk": "tachiyomi-th.onemanga-v1.4.30.apk",
+    "lang": "th",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "One-Manga",
+        "lang": "th",
+        "id": "2248402620929558947",
+        "baseUrl": "https://one-manga.com"
       }
     ]
   },
@@ -23835,10 +23886,10 @@
   {
     "name": "Tachiyomi: Anisa Manga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.anisamanga",
-    "apk": "tachiyomi-tr.anisamanga-v1.4.43.apk",
+    "apk": "tachiyomi-tr.anisamanga-v1.4.44.apk",
     "lang": "tr",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 1,
     "sources": [
       {
