@@ -5057,6 +5057,29 @@
     ]
   },
   {
+    "name": "Tachiyomi: MayoTune",
+    "pkg": "eu.kanade.tachiyomi.extension.all.mayotune",
+    "apk": "tachiyomi-all.mayotune-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MayoTune",
+        "lang": "en",
+        "id": "1480743237782384863",
+        "baseUrl": "https://mayotune.xyz"
+      },
+      {
+        "name": "MayoTune",
+        "lang": "ja",
+        "id": "6644592287307303034",
+        "baseUrl": "https://mayotune.xyz"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Meitua.top",
     "pkg": "eu.kanade.tachiyomi.extension.all.meituatop",
     "apk": "tachiyomi-all.meituatop-v1.4.9.apk",
@@ -17854,17 +17877,17 @@
   {
     "name": "Tachiyomi: CosmicScans.id",
     "pkg": "eu.kanade.tachiyomi.extension.id.cosmicscansid",
-    "apk": "tachiyomi-id.cosmicscansid-v1.4.41.apk",
+    "apk": "tachiyomi-id.cosmicscansid-v1.4.42.apk",
     "lang": "id",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 1,
     "sources": [
       {
         "name": "CosmicScans.id",
         "lang": "id",
         "id": "6559481336553833282",
-        "baseUrl": "https://lc2.cosmicscans.asia"
+        "baseUrl": "https://lc3.cosmicscans.asia"
       }
     ]
   },
@@ -18041,17 +18064,17 @@
   {
     "name": "Tachiyomi: Kiryuu",
     "pkg": "eu.kanade.tachiyomi.extension.id.kiryuu",
-    "apk": "tachiyomi-id.kiryuu-v1.4.40.apk",
+    "apk": "tachiyomi-id.kiryuu-v1.4.41.apk",
     "lang": "id",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 0,
     "sources": [
       {
         "name": "Kiryuu",
         "lang": "id",
         "id": "3639673976007021338",
-        "baseUrl": "https://kiryuu01.com"
+        "baseUrl": "https://kiryuu02.com"
       }
     ]
   },
@@ -18687,17 +18710,17 @@
   {
     "name": "Tachiyomi: Tenshi.id",
     "pkg": "eu.kanade.tachiyomi.extension.id.masterkomik",
-    "apk": "tachiyomi-id.masterkomik-v1.4.36.apk",
+    "apk": "tachiyomi-id.masterkomik-v1.4.37.apk",
     "lang": "id",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "sources": [
       {
         "name": "Tenshi.id",
         "lang": "id",
         "id": "3146720114171452298",
-        "baseUrl": "https://tenshi01.id"
+        "baseUrl": "https://01.tenshiku.asia"
       }
     ]
   },
@@ -19027,17 +19050,17 @@
   {
     "name": "Tachiyomi: Siikomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.siimanga",
-    "apk": "tachiyomi-id.siimanga-v1.4.42.apk",
+    "apk": "tachiyomi-id.siimanga-v1.4.43.apk",
     "lang": "id",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 0,
     "sources": [
       {
         "name": "Siikomik",
         "lang": "id",
         "id": "877264191661067329",
-        "baseUrl": "https://siikomik.art"
+        "baseUrl": "https://web.siikomik.org"
       }
     ]
   },
@@ -22004,10 +22027,10 @@
   {
     "name": "Tachiyomi: Pink Rosa",
     "pkg": "eu.kanade.tachiyomi.extension.pt.pinkrosa",
-    "apk": "tachiyomi-pt.pinkrosa-v1.4.10.apk",
+    "apk": "tachiyomi-pt.pinkrosa-v1.4.11.apk",
     "lang": "pt-BR",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "sources": [
       {
@@ -22276,10 +22299,10 @@
   {
     "name": "Tachiyomi: Spectral Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.spectralscan",
-    "apk": "tachiyomi-pt.spectralscan-v1.4.45.apk",
+    "apk": "tachiyomi-pt.spectralscan-v1.4.46.apk",
     "lang": "pt-BR",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 0,
     "sources": [
       {
