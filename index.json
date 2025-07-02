@@ -10062,10 +10062,10 @@
   {
     "name": "Tachiyomi: Hive Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
-    "apk": "tachiyomi-en.infernalvoidscans-v1.4.49.apk",
+    "apk": "tachiyomi-en.infernalvoidscans-v1.4.50.apk",
     "lang": "en",
-    "code": 49,
-    "version": "1.4.49",
+    "code": 50,
+    "version": "1.4.50",
     "nsfw": 0,
     "sources": [
       {
@@ -15321,17 +15321,17 @@
   {
     "name": "Tachiyomi: Catharsis World",
     "pkg": "eu.kanade.tachiyomi.extension.es.catharsisworld",
-    "apk": "tachiyomi-es.catharsisworld-v1.4.46.apk",
+    "apk": "tachiyomi-es.catharsisworld-v1.4.47.apk",
     "lang": "es",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 1,
     "sources": [
       {
         "name": "Catharsis World",
         "lang": "es",
         "id": "2856082375563763469",
-        "baseUrl": "https://catharsisworld.justep.me"
+        "baseUrl": "https://catharsisworld.dig-it.info"
       }
     ]
   },
@@ -16749,17 +16749,17 @@
   {
     "name": "Tachiyomi: TecnoProjects",
     "pkg": "eu.kanade.tachiyomi.extension.es.tecnoprojects",
-    "apk": "tachiyomi-es.tecnoprojects-v1.4.42.apk",
+    "apk": "tachiyomi-es.tecnoprojects-v1.4.43.apk",
     "lang": "es",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 0,
     "sources": [
       {
         "name": "TecnoProjects",
         "lang": "es",
         "id": "2035850802381264987",
-        "baseUrl": "https://tecnoprojects.com"
+        "baseUrl": "https://tecnoprojects.xyz"
       }
     ]
   },
@@ -17843,17 +17843,17 @@
   {
     "name": "Tachiyomi: Comicaso",
     "pkg": "eu.kanade.tachiyomi.extension.id.comicaso",
-    "apk": "tachiyomi-id.comicaso-v1.4.32.apk",
+    "apk": "tachiyomi-id.comicaso-v1.4.33.apk",
     "lang": "id",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "sources": [
       {
         "name": "Comicaso",
         "lang": "id",
         "id": "8105901253428833094",
-        "baseUrl": "https://comicaso.id"
+        "baseUrl": "https://comicaso.space"
       }
     ]
   },
@@ -18336,17 +18336,17 @@
   {
     "name": "Tachiyomi: Komiku",
     "pkg": "eu.kanade.tachiyomi.extension.id.komiku",
-    "apk": "tachiyomi-id.komiku-v1.4.18.apk",
+    "apk": "tachiyomi-id.komiku-v1.4.19.apk",
     "lang": "id",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 0,
     "sources": [
       {
         "name": "Komiku",
         "lang": "id",
         "id": "4838485846640015979",
-        "baseUrl": "https://komiku.id"
+        "baseUrl": "https://komiku.org"
       }
     ]
   },
@@ -18693,17 +18693,17 @@
   {
     "name": "Tachiyomi: Manhwalist.org",
     "pkg": "eu.kanade.tachiyomi.extension.id.manhwalistorg",
-    "apk": "tachiyomi-id.manhwalistorg-v1.4.30.apk",
+    "apk": "tachiyomi-id.manhwalistorg-v1.4.31.apk",
     "lang": "id",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "sources": [
       {
         "name": "Manhwalist.org",
         "lang": "id",
         "id": "1031213229391436059",
-        "baseUrl": "https://manhwalist.org"
+        "baseUrl": "https://isekaikomik.com"
       }
     ]
   },
@@ -20495,19 +20495,19 @@
         "name": "늑대닷컴 - 웹툰",
         "lang": "ko",
         "id": "5583626852311652499",
-        "baseUrl": "https://wfwf397.com"
+        "baseUrl": "https://wfwf399.com"
       },
       {
         "name": "늑대닷컴 - 만화책",
         "lang": "ko",
         "id": "7074060458114951398",
-        "baseUrl": "https://wfwf397.com"
+        "baseUrl": "https://wfwf399.com"
       },
       {
         "name": "늑대닷컴 - 포토툰",
         "lang": "ko",
         "id": "4225505094399546613",
-        "baseUrl": "https://wfwf397.com"
+        "baseUrl": "https://wfwf399.com"
       }
     ]
   },
@@ -21330,10 +21330,10 @@
   {
     "name": "Tachiyomi: Sagrado Império da Britannia",
     "pkg": "eu.kanade.tachiyomi.extension.pt.imperiodabritannia",
-    "apk": "tachiyomi-pt.imperiodabritannia-v1.4.46.apk",
+    "apk": "tachiyomi-pt.imperiodabritannia-v1.4.47.apk",
     "lang": "pt-BR",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "sources": [
       {
@@ -22299,10 +22299,10 @@
   {
     "name": "Tachiyomi: Spectral Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.spectralscan",
-    "apk": "tachiyomi-pt.spectralscan-v1.4.46.apk",
+    "apk": "tachiyomi-pt.spectralscan-v1.4.47.apk",
     "lang": "pt-BR",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "sources": [
       {
@@ -24883,17 +24883,17 @@
   {
     "name": "Tachiyomi: Opiatoon",
     "pkg": "eu.kanade.tachiyomi.extension.tr.opiatoon",
-    "apk": "tachiyomi-tr.opiatoon-v1.4.43.apk",
+    "apk": "tachiyomi-tr.opiatoon-v1.4.44.apk",
     "lang": "tr",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 1,
     "sources": [
       {
         "name": "Opiatoon",
         "lang": "tr",
         "id": "2266890064732906146",
-        "baseUrl": "https://opiatoon.pro"
+        "baseUrl": "https://opiatoon.art"
       }
     ]
   },
@@ -26475,6 +26475,23 @@
         "lang": "zh",
         "id": "1795888684783606321",
         "baseUrl": "https://manwa.me"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MH1234",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.mh1234",
+    "apk": "tachiyomi-zh.mh1234-v1.4.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "漫画1234",
+        "lang": "zh",
+        "id": "7895725080195720063",
+        "baseUrl": "https://b.amh1234.com"
       }
     ]
   },
