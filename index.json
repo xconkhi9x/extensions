@@ -20155,17 +20155,17 @@
   {
     "name": "Tachiyomi: Rawkuma",
     "pkg": "eu.kanade.tachiyomi.extension.ja.rawkuma",
-    "apk": "tachiyomi-ja.rawkuma-v1.4.31.apk",
+    "apk": "tachiyomi-ja.rawkuma-v1.4.32.apk",
     "lang": "ja",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 1,
     "sources": [
       {
         "name": "Rawkuma",
         "lang": "ja",
         "id": "1512072040307511188",
-        "baseUrl": "https://rawkuma.com"
+        "baseUrl": "https://rawkuma.net"
       }
     ]
   },
@@ -26413,10 +26413,10 @@
   {
     "name": "Tachiyomi: Jinman Tiantang",
     "pkg": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
-    "apk": "tachiyomi-zh.jinmantiantang-v1.4.50.apk",
+    "apk": "tachiyomi-zh.jinmantiantang-v1.4.51.apk",
     "lang": "zh",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 1,
     "sources": [
       {
