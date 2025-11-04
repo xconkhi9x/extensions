@@ -14038,6 +14038,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Nyra Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.nyrascans",
+    "apk": "tachiyomi-en.nyrascans-v1.4.18.apk",
+    "lang": "en",
+    "code": 18,
+    "version": "1.4.18",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Nyra Scans",
+        "lang": "en",
+        "id": "1917870670428613627",
+        "baseUrl": "https://nyrascans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Nyx Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.nyxscans",
     "apk": "tachiyomi-en.nyxscans-v1.4.12.apk",
@@ -16747,10 +16765,10 @@
   {
     "name": "Tachiyomi: BarManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.barmanga",
-    "apk": "tachiyomi-es.barmanga-v1.4.49.apk",
+    "apk": "tachiyomi-es.barmanga-v1.4.50.apk",
     "lang": "es",
-    "code": 49,
-    "version": "1.4.49",
+    "code": 50,
+    "version": "1.4.50",
     "nsfw": 0,
     "sources": [
       {
@@ -18626,17 +18644,17 @@
   {
     "name": "Tachiyomi: AnimeSama",
     "pkg": "eu.kanade.tachiyomi.extension.fr.animesama",
-    "apk": "tachiyomi-fr.animesama-v1.4.9.apk",
+    "apk": "tachiyomi-fr.animesama-v1.4.10.apk",
     "lang": "fr",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "sources": [
       {
         "name": "AnimeSama",
         "lang": "fr",
         "id": "5104384223103778991",
-        "baseUrl": "https://anime-sama.fr",
+        "baseUrl": "https://anime-sama.org",
         "versionId": 1
       }
     ]
@@ -22408,21 +22426,21 @@
         "name": "늑대닷컴 - 웹툰",
         "lang": "ko",
         "id": "5583626852311652499",
-        "baseUrl": "https://wfwf444.com",
+        "baseUrl": "https://wfwf445.com",
         "versionId": 1
       },
       {
         "name": "늑대닷컴 - 만화책",
         "lang": "ko",
         "id": "7074060458114951398",
-        "baseUrl": "https://wfwf444.com",
+        "baseUrl": "https://wfwf445.com",
         "versionId": 1
       },
       {
         "name": "늑대닷컴 - 포토툰",
         "lang": "ko",
         "id": "4225505094399546613",
-        "baseUrl": "https://wfwf444.com",
+        "baseUrl": "https://wfwf445.com",
         "versionId": 1
       }
     ]
