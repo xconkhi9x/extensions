@@ -5769,59 +5769,59 @@
   {
     "name": "Tachiyomi: Manhuarm",
     "pkg": "eu.kanade.tachiyomi.extension.all.manhuarm",
-    "apk": "tachiyomi-all.manhuarm-v1.4.48.apk",
+    "apk": "tachiyomi-all.manhuarm-v1.4.49.apk",
     "lang": "all",
-    "code": 48,
-    "version": "1.4.48",
+    "code": 49,
+    "version": "1.4.49",
     "nsfw": 1,
     "sources": [
       {
         "name": "Manhuarm",
         "lang": "ar",
         "id": "797946349800265191",
-        "baseUrl": "https://manhuarm.com",
+        "baseUrl": "https://manhuarmmtl.com",
         "versionId": 1
       },
       {
         "name": "Manhuarm",
         "lang": "en",
         "id": "7690709834650404718",
-        "baseUrl": "https://manhuarm.com",
+        "baseUrl": "https://manhuarmmtl.com",
         "versionId": 1
       },
       {
         "name": "Manhuarm",
         "lang": "es",
         "id": "8547169224512757621",
-        "baseUrl": "https://manhuarm.com",
+        "baseUrl": "https://manhuarmmtl.com",
         "versionId": 1
       },
       {
         "name": "Manhuarm",
         "lang": "fr",
         "id": "8537659881437820380",
-        "baseUrl": "https://manhuarm.com",
+        "baseUrl": "https://manhuarmmtl.com",
         "versionId": 1
       },
       {
         "name": "Manhuarm",
         "lang": "id",
         "id": "6421419166134585378",
-        "baseUrl": "https://manhuarm.com",
+        "baseUrl": "https://manhuarmmtl.com",
         "versionId": 1
       },
       {
         "name": "Manhuarm",
         "lang": "it",
         "id": "7611240442736670513",
-        "baseUrl": "https://manhuarm.com",
+        "baseUrl": "https://manhuarmmtl.com",
         "versionId": 1
       },
       {
         "name": "Manhuarm",
         "lang": "pt-BR",
         "id": "5618121635049025093",
-        "baseUrl": "https://manhuarm.com",
+        "baseUrl": "https://manhuarmmtl.com",
         "versionId": 1
       }
     ]
@@ -9081,10 +9081,10 @@
   {
     "name": "Tachiyomi: AllPornComic",
     "pkg": "eu.kanade.tachiyomi.extension.en.allporncomic",
-    "apk": "tachiyomi-en.allporncomic-v1.4.45.apk",
+    "apk": "tachiyomi-en.allporncomic-v1.4.46.apk",
     "lang": "en",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 1,
     "sources": [
       {
@@ -10351,10 +10351,10 @@
   {
     "name": "Tachiyomi: Flame Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.flamecomics",
-    "apk": "tachiyomi-en.flamecomics-v1.4.45.apk",
+    "apk": "tachiyomi-en.flamecomics-v1.4.46.apk",
     "lang": "en",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 0,
     "sources": [
       {
@@ -10711,10 +10711,10 @@
   {
     "name": "Tachiyomi: Hentai2Read",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentai2read",
-    "apk": "tachiyomi-en.hentai2read-v1.4.17.apk",
+    "apk": "tachiyomi-en.hentai2read-v1.4.18.apk",
     "lang": "en",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 1,
     "sources": [
       {
@@ -16765,10 +16765,10 @@
   {
     "name": "Tachiyomi: BarManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.barmanga",
-    "apk": "tachiyomi-es.barmanga-v1.4.50.apk",
+    "apk": "tachiyomi-es.barmanga-v1.4.51.apk",
     "lang": "es",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 0,
     "sources": [
       {
