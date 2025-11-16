@@ -2771,10 +2771,10 @@
   {
     "name": "Tachiyomi: HentaiFox",
     "pkg": "eu.kanade.tachiyomi.extension.all.hentaifox",
-    "apk": "tachiyomi-all.hentaifox-v1.4.11.apk",
+    "apk": "tachiyomi-all.hentaifox-v1.4.12.apk",
     "lang": "all",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "sources": [
       {
@@ -19839,17 +19839,17 @@
   {
     "name": "Tachiyomi: Hwago",
     "pkg": "eu.kanade.tachiyomi.extension.id.hwago",
-    "apk": "tachiyomi-id.hwago-v1.4.47.apk",
+    "apk": "tachiyomi-id.hwago-v1.4.48.apk",
     "lang": "id",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 0,
     "sources": [
       {
         "name": "Hwago",
         "lang": "id",
         "id": "5490253431755133280",
-        "baseUrl": "https://hwago01.xyz",
+        "baseUrl": "https://01.hwago.xyz",
         "versionId": 1
       }
     ]
@@ -19911,17 +19911,17 @@
   {
     "name": "Tachiyomi: Kiryuu",
     "pkg": "eu.kanade.tachiyomi.extension.id.kiryuu",
-    "apk": "tachiyomi-id.kiryuu-v1.4.43.apk",
+    "apk": "tachiyomi-id.kiryuu-v1.4.44.apk",
     "lang": "id",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 0,
     "sources": [
       {
         "name": "Kiryuu",
         "lang": "id",
         "id": "3639673976007021338",
-        "baseUrl": "https://kiryuu02.com",
+        "baseUrl": "https://kiryuu03.com",
         "versionId": 1
       }
     ]
@@ -27333,10 +27333,10 @@
   {
     "name": "Tachiyomi: Uzay Manga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.uzaymanga",
-    "apk": "tachiyomi-tr.uzaymanga-v1.4.39.apk",
+    "apk": "tachiyomi-tr.uzaymanga-v1.4.40.apk",
     "lang": "tr",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "sources": [
       {
@@ -28017,17 +28017,17 @@
   {
     "name": "Tachiyomi: VlogTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.vlogtruyen",
-    "apk": "tachiyomi-vi.vlogtruyen-v1.4.16.apk",
+    "apk": "tachiyomi-vi.vlogtruyen-v1.4.17.apk",
     "lang": "vi",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 1,
     "sources": [
       {
         "name": "VlogTruyen",
         "lang": "vi",
         "id": "6425642624422299254",
-        "baseUrl": "https://vlogtruyen55.com",
+        "baseUrl": "https://vlogtruyen57.com",
         "versionId": 1
       }
     ]
