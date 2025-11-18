@@ -9718,10 +9718,10 @@
   {
     "name": "Tachiyomi: Comix",
     "pkg": "eu.kanade.tachiyomi.extension.en.comix",
-    "apk": "tachiyomi-en.comix-v1.4.1.apk",
+    "apk": "tachiyomi-en.comix-v1.4.3.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "sources": [
       {
@@ -18426,6 +18426,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Submanhwa",
+    "pkg": "eu.kanade.tachiyomi.extension.es.submanhwa",
+    "apk": "tachiyomi-es.submanhwa-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Submanhwa",
+        "lang": "es",
+        "id": "1136717301008230074",
+        "baseUrl": "https://www.submanhwa.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Taurus Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.es.taurusfansub",
     "apk": "tachiyomi-es.taurusfansub-v1.4.51.apk",
@@ -21477,10 +21495,10 @@
   {
     "name": "Tachiyomi: Gangan Online",
     "pkg": "eu.kanade.tachiyomi.extension.ja.ganganonline",
-    "apk": "tachiyomi-ja.ganganonline-v1.4.1.apk",
+    "apk": "tachiyomi-ja.ganganonline-v1.4.2.apk",
     "lang": "ja",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -21675,10 +21693,10 @@
   {
     "name": "Tachiyomi: Magazine Pocket",
     "pkg": "eu.kanade.tachiyomi.extension.ja.magazinepocket",
-    "apk": "tachiyomi-ja.magazinepocket-v1.4.9.apk",
+    "apk": "tachiyomi-ja.magazinepocket-v1.4.10.apk",
     "lang": "ja",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "sources": [
       {
