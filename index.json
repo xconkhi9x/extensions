@@ -3473,10 +3473,10 @@
   {
     "name": "Tachiyomi: SchaleNetwork",
     "pkg": "eu.kanade.tachiyomi.extension.all.koharu",
-    "apk": "tachiyomi-all.koharu-v1.4.16.apk",
+    "apk": "tachiyomi-all.koharu-v1.4.17.apk",
     "lang": "all",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 1,
     "sources": [
       {
@@ -11240,10 +11240,10 @@
   {
     "name": "Tachiyomi: Kagane",
     "pkg": "eu.kanade.tachiyomi.extension.en.kagane",
-    "apk": "tachiyomi-en.kagane-v1.4.11.apk",
+    "apk": "tachiyomi-en.kagane-v1.4.12.apk",
     "lang": "en",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "sources": [
       {
@@ -15451,17 +15451,17 @@
   {
     "name": "Tachiyomi: Violet Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.shojoscans",
-    "apk": "tachiyomi-en.shojoscans-v1.4.32.apk",
+    "apk": "tachiyomi-en.shojoscans-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "sources": [
       {
         "name": "Violet Scans",
         "lang": "en",
         "id": "9079184529211162476",
-        "baseUrl": "https://violetscans.com",
+        "baseUrl": "https://violetscans.org",
         "versionId": 1
       }
     ]
@@ -16117,10 +16117,10 @@
   {
     "name": "Tachiyomi: Utoon",
     "pkg": "eu.kanade.tachiyomi.extension.en.utoon",
-    "apk": "tachiyomi-en.utoon-v1.4.47.apk",
+    "apk": "tachiyomi-en.utoon-v1.4.48.apk",
     "lang": "en",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 0,
     "sources": [
       {
@@ -22321,19 +22321,19 @@
     ]
   },
   {
-    "name": "Tachiyomi: WeLoveMangaOne",
+    "name": "Tachiyomi: Love4u",
     "pkg": "eu.kanade.tachiyomi.extension.ja.welovemangaone",
-    "apk": "tachiyomi-ja.welovemangaone-v1.4.11.apk",
+    "apk": "tachiyomi-ja.welovemangaone-v1.4.12.apk",
     "lang": "ja",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "sources": [
       {
-        "name": "WeLoveMangaOne",
+        "name": "Love4u",
         "lang": "ja",
         "id": "1647179844716143786",
-        "baseUrl": "https://welovemanga.one",
+        "baseUrl": "https://love4u.net",
         "versionId": 1
       }
     ]
@@ -25083,10 +25083,10 @@
   {
     "name": "Tachiyomi: Nude-Moon",
     "pkg": "eu.kanade.tachiyomi.extension.ru.nudemoon",
-    "apk": "tachiyomi-ru.nudemoon-v1.4.25.apk",
+    "apk": "tachiyomi-ru.nudemoon-v1.4.26.apk",
     "lang": "ru",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 26,
+    "version": "1.4.26",
     "nsfw": 1,
     "sources": [
       {
