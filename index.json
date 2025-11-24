@@ -5776,10 +5776,10 @@
   {
     "name": "Tachiyomi: Manhuarm",
     "pkg": "eu.kanade.tachiyomi.extension.all.manhuarm",
-    "apk": "tachiyomi-all.manhuarm-v1.4.50.apk",
+    "apk": "tachiyomi-all.manhuarm-v1.4.51.apk",
     "lang": "all",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 1,
     "sources": [
       {
@@ -8073,6 +8073,31 @@
         "lang": "all",
         "id": "170542391855030753",
         "baseUrl": "https://en.xchina.co",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: YSK Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.all.yskcomics",
+    "apk": "tachiyomi-all.yskcomics-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "YSK Comics",
+        "lang": "ar",
+        "id": "9170389107417152397",
+        "baseUrl": "https://www.ysk-comics.com",
+        "versionId": 1
+      },
+      {
+        "name": "YSK Comics",
+        "lang": "en",
+        "id": "177448809266948921",
+        "baseUrl": "https://www.ysk-comics.com",
         "versionId": 1
       }
     ]
@@ -18464,17 +18489,17 @@
   {
     "name": "Tachiyomi: Temple Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.templescanesp",
-    "apk": "tachiyomi-es.templescanesp-v1.4.51.apk",
+    "apk": "tachiyomi-es.templescanesp-v1.4.52.apk",
     "lang": "es",
-    "code": 51,
-    "version": "1.4.51",
+    "code": 52,
+    "version": "1.4.52",
     "nsfw": 1,
     "sources": [
       {
         "name": "Temple Scan",
         "lang": "es",
         "id": "3451196845457607826",
-        "baseUrl": "https://aedexnox.vxviral.xyz",
+        "baseUrl": "https://aedexnox.kawi.lat",
         "versionId": 4
       }
     ]
@@ -21290,6 +21315,24 @@
         "lang": "ja",
         "id": "3118962894631295374",
         "baseUrl": "https://comic-gardo.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Comic Grast",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.comicgrast",
+    "apk": "tachiyomi-ja.comicgrast-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Comic Grast",
+        "lang": "ja",
+        "id": "218928749727744731",
+        "baseUrl": "https://novema.jp",
         "versionId": 1
       }
     ]
