@@ -8591,18 +8591,18 @@
   {
     "name": "Tachiyomi: MangaSwat",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaswat",
-    "apk": "tachiyomi-ar.mangaswat-v1.4.56.apk",
+    "apk": "tachiyomi-ar.mangaswat-v1.4.57.apk",
     "lang": "ar",
-    "code": 56,
-    "version": "1.4.56",
+    "code": 57,
+    "version": "1.4.57",
     "nsfw": 0,
     "sources": [
       {
         "name": "MangaSwat",
         "lang": "ar",
-        "id": "264168699090292138",
-        "baseUrl": "https://swatscans.com",
-        "versionId": 1
+        "id": "7657007209499352344",
+        "baseUrl": "https://appswat.com",
+        "versionId": 2
       }
     ]
   },
@@ -11031,10 +11031,10 @@
   {
     "name": "Tachiyomi: Hiperdex",
     "pkg": "eu.kanade.tachiyomi.extension.en.hiperdex",
-    "apk": "tachiyomi-en.hiperdex-v1.4.68.apk",
+    "apk": "tachiyomi-en.hiperdex-v1.4.69.apk",
     "lang": "en",
-    "code": 68,
-    "version": "1.4.68",
+    "code": 69,
+    "version": "1.4.69",
     "nsfw": 1,
     "sources": [
       {
@@ -12201,10 +12201,10 @@
   {
     "name": "Tachiyomi: Mangafreak",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangafreak",
-    "apk": "tachiyomi-en.mangafreak-v1.4.11.apk",
+    "apk": "tachiyomi-en.mangafreak-v1.4.12.apk",
     "lang": "en",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "sources": [
       {
@@ -13777,6 +13777,24 @@
         "lang": "en",
         "id": "2698265163169248715",
         "baseUrl": "https://mehgazone.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MeiToon",
+    "pkg": "eu.kanade.tachiyomi.extension.en.meitoon",
+    "apk": "tachiyomi-en.meitoon-v1.4.18.apk",
+    "lang": "en",
+    "code": 18,
+    "version": "1.4.18",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MeiToon",
+        "lang": "en",
+        "id": "3314074618469377356",
+        "baseUrl": "https://meitoon.org",
         "versionId": 1
       }
     ]
@@ -15638,10 +15656,10 @@
   {
     "name": "Tachiyomi: SpyFakku",
     "pkg": "eu.kanade.tachiyomi.extension.en.spyfakku",
-    "apk": "tachiyomi-en.spyfakku-v1.4.12.apk",
+    "apk": "tachiyomi-en.spyfakku-v1.4.13.apk",
     "lang": "en",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 1,
     "sources": [
       {
@@ -16977,17 +16995,17 @@
   {
     "name": "Tachiyomi: Catharsis World",
     "pkg": "eu.kanade.tachiyomi.extension.es.catharsisworld",
-    "apk": "tachiyomi-es.catharsisworld-v1.4.53.apk",
+    "apk": "tachiyomi-es.catharsisworld-v1.4.54.apk",
     "lang": "es",
-    "code": 53,
-    "version": "1.4.53",
+    "code": 54,
+    "version": "1.4.54",
     "nsfw": 1,
     "sources": [
       {
         "name": "Catharsis World",
         "lang": "es",
         "id": "2856082375563763469",
-        "baseUrl": "https://catharsisworld.dig-it.info",
+        "baseUrl": "https://catharsisworld.vxviral.xyz",
         "versionId": 2
       }
     ]
@@ -22076,6 +22094,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Piccoma",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.piccoma",
+    "apk": "tachiyomi-ja.piccoma-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Piccoma",
+        "lang": "ja",
+        "id": "7159690625157327655",
+        "baseUrl": "https://piccoma.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Pixiv Comic",
     "pkg": "eu.kanade.tachiyomi.extension.ja.pixivcomic",
     "apk": "tachiyomi-ja.pixivcomic-v1.4.3.apk",
@@ -22858,17 +22894,17 @@
   {
     "name": "Tachiyomi: Aurora Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.aurorascan",
-    "apk": "tachiyomi-pt.aurorascan-v1.4.6.apk",
+    "apk": "tachiyomi-pt.aurorascan-v1.4.7.apk",
     "lang": "pt-BR",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "sources": [
       {
         "name": "Aurora Scan",
         "lang": "pt-BR",
         "id": "3121404924614598451",
-        "baseUrl": "https://aurorascan.net",
+        "baseUrl": "https://www.serenitytoons.win",
         "versionId": 1
       }
     ]
@@ -23668,17 +23704,17 @@
   {
     "name": "Tachiyomi: Maid Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.maidscan",
-    "apk": "tachiyomi-pt.maidscan-v1.4.52.apk",
+    "apk": "tachiyomi-pt.maidscan-v1.4.53.apk",
     "lang": "pt-BR",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 1,
     "sources": [
       {
         "name": "Maid Scan",
         "lang": "pt-BR",
         "id": "7624757094973334315",
-        "baseUrl": "https://novo.empreguetes.site",
+        "baseUrl": "https://empreguetes.xyz",
         "versionId": 1
       }
     ]
@@ -23794,10 +23830,10 @@
   {
     "name": "Tachiyomi: Manga Stop",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangastop",
-    "apk": "tachiyomi-pt.mangastop-v1.4.31.apk",
+    "apk": "tachiyomi-pt.mangastop-v1.4.32.apk",
     "lang": "pt-BR",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "sources": [
       {
@@ -23848,10 +23884,10 @@
   {
     "name": "Tachiyomi: Mediocre Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mediocretoons",
-    "apk": "tachiyomi-pt.mediocretoons-v1.4.8.apk",
+    "apk": "tachiyomi-pt.mediocretoons-v1.4.9.apk",
     "lang": "pt-BR",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "sources": [
       {
@@ -24532,10 +24568,10 @@
   {
     "name": "Tachiyomi: Sussy Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sussyscan",
-    "apk": "tachiyomi-pt.sussyscan-v1.4.62.apk",
+    "apk": "tachiyomi-pt.sussyscan-v1.4.63.apk",
     "lang": "pt-BR",
-    "code": 62,
-    "version": "1.4.62",
+    "code": 63,
+    "version": "1.4.63",
     "nsfw": 1,
     "sources": [
       {
@@ -24543,7 +24579,7 @@
         "lang": "pt-BR",
         "id": "6963507464339951166",
         "baseUrl": "https://www.sussytoons.wtf",
-        "versionId": 2
+        "versionId": 1
       }
     ]
   },
