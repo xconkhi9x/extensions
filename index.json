@@ -2686,10 +2686,10 @@
   {
     "name": "Tachiyomi: Hentai Cosplay",
     "pkg": "eu.kanade.tachiyomi.extension.all.hentaicosplay",
-    "apk": "tachiyomi-all.hentaicosplay-v1.4.6.apk",
+    "apk": "tachiyomi-all.hentaicosplay-v1.4.7.apk",
     "lang": "all",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "sources": [
       {
@@ -17463,17 +17463,17 @@
   {
     "name": "Tachiyomi: Ikigai Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
-    "apk": "tachiyomi-es.ikigaimangas-v1.4.28.apk",
+    "apk": "tachiyomi-es.ikigaimangas-v1.4.29.apk",
     "lang": "es",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 1,
     "sources": [
       {
         "name": "Ikigai Mangas",
         "lang": "es",
         "id": "3546919326830738510",
-        "baseUrl": "https://visorikigai.damilok.xyz",
+        "baseUrl": "https://visualikigai.blidi.shop",
         "versionId": 1
       }
     ]
@@ -27772,17 +27772,17 @@
   {
     "name": "Tachiyomi: CBHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaicube",
-    "apk": "tachiyomi-vi.hentaicube-v1.4.66.apk",
+    "apk": "tachiyomi-vi.hentaicube-v1.4.67.apk",
     "lang": "vi",
-    "code": 66,
-    "version": "1.4.66",
+    "code": 67,
+    "version": "1.4.67",
     "nsfw": 1,
     "sources": [
       {
         "name": "CBHentai",
         "lang": "vi",
         "id": "823638192569572166",
-        "baseUrl": "https://hentaicb.live",
+        "baseUrl": "https://2tencb.top",
         "versionId": 1
       }
     ]
@@ -27999,6 +27999,24 @@
         "lang": "vi",
         "id": "1166901607721102706",
         "baseUrl": "https://www.toptruyentv11.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Tranh18",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.tranh18",
+    "apk": "tachiyomi-vi.tranh18-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Tranh18",
+        "lang": "vi",
+        "id": "1067821280191897902",
+        "baseUrl": "https://tranh18z.com",
         "versionId": 1
       }
     ]
