@@ -4803,10 +4803,10 @@
   {
     "name": "Tachiyomi: MangaPark",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangapark",
-    "apk": "tachiyomi-all.mangapark-v1.4.22.apk",
+    "apk": "tachiyomi-all.mangapark-v1.4.23.apk",
     "lang": "all",
-    "code": 22,
-    "version": "1.4.22",
+    "code": 23,
+    "version": "1.4.23",
     "nsfw": 1,
     "sources": [
       {
@@ -19475,10 +19475,10 @@
   {
     "name": "Tachiyomi: Raijin Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.raijinscans",
-    "apk": "tachiyomi-fr.raijinscans-v1.4.49.apk",
+    "apk": "tachiyomi-fr.raijinscans-v1.4.51.apk",
     "lang": "fr",
-    "code": 49,
-    "version": "1.4.49",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 0,
     "sources": [
       {
@@ -19565,10 +19565,10 @@
   {
     "name": "Tachiyomi: Scan-Manga",
     "pkg": "eu.kanade.tachiyomi.extension.fr.scanmanga",
-    "apk": "tachiyomi-fr.scanmanga-v1.4.12.apk",
+    "apk": "tachiyomi-fr.scanmanga-v1.4.13.apk",
     "lang": "fr",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 1,
     "sources": [
       {
@@ -22865,18 +22865,18 @@
   {
     "name": "Tachiyomi: Argos Comics",
     "pkg": "eu.kanade.tachiyomi.extension.pt.argoscomics",
-    "apk": "tachiyomi-pt.argoscomics-v1.4.51.apk",
+    "apk": "tachiyomi-pt.argoscomics-v1.4.52.apk",
     "lang": "pt-BR",
-    "code": 51,
-    "version": "1.4.51",
+    "code": 52,
+    "version": "1.4.52",
     "nsfw": 0,
     "sources": [
       {
         "name": "Argos Comics",
         "lang": "pt-BR",
-        "id": "1728054086965963225",
+        "id": "2731562656488805764",
         "baseUrl": "https://argoscomic.com",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -23765,10 +23765,10 @@
   {
     "name": "Tachiyomi: Manga Livre",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivre",
-    "apk": "tachiyomi-pt.mangalivre-v1.4.47.apk",
+    "apk": "tachiyomi-pt.mangalivre-v1.4.48.apk",
     "lang": "pt-BR",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 0,
     "sources": [
       {
@@ -23819,10 +23819,10 @@
   {
     "name": "Tachiyomi: Manga Stop",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangastop",
-    "apk": "tachiyomi-pt.mangastop-v1.4.34.apk",
+    "apk": "tachiyomi-pt.mangastop-v1.4.35.apk",
     "lang": "pt-BR",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "sources": [
       {
@@ -24773,17 +24773,17 @@
   {
     "name": "Tachiyomi: Com-X",
     "pkg": "eu.kanade.tachiyomi.extension.ru.comx",
-    "apk": "tachiyomi-ru.comx-v1.4.31.apk",
+    "apk": "tachiyomi-ru.comx-v1.4.32.apk",
     "lang": "ru",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "sources": [
       {
         "name": "Com-X",
         "lang": "ru",
         "id": "1114173092141608635",
-        "baseUrl": "https://comxlife.com",
+        "baseUrl": "https://com-x.life",
         "versionId": 1
       }
     ]
@@ -24791,10 +24791,10 @@
   {
     "name": "Tachiyomi: Desu",
     "pkg": "eu.kanade.tachiyomi.extension.ru.desu",
-    "apk": "tachiyomi-ru.desu-v1.4.29.apk",
+    "apk": "tachiyomi-ru.desu-v1.4.30.apk",
     "lang": "ru",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 1,
     "sources": [
       {
