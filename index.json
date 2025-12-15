@@ -12926,24 +12926,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaTaro",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangataro",
-    "apk": "tachiyomi-en.mangataro-v1.4.6.apk",
-    "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "MangaTaro",
-        "lang": "en",
-        "id": "8358097306709528603",
-        "baseUrl": "https://mangataro.org",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Mangatellers",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangatellers",
     "apk": "tachiyomi-en.mangatellers-v1.4.4.apk",
@@ -13750,23 +13732,6 @@
         "id": "3485512757570629403",
         "baseUrl": "https://manytoon.me",
         "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MayoTune",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mayotune",
-    "apk": "tachiyomi-en.mayotune-v1.4.2.apk",
-    "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "MayoTune",
-        "lang": "en",
-        "id": "1480743237782384863",
-        "baseUrl": "https://mayotune.xyz"
       }
     ]
   },
