@@ -5765,10 +5765,10 @@
   {
     "name": "Tachiyomi: Manga UP!",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaup",
-    "apk": "tachiyomi-all.mangaup-v1.4.4.apk",
+    "apk": "tachiyomi-all.mangaup-v1.4.5.apk",
     "lang": "all",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "sources": [
       {
@@ -5801,10 +5801,10 @@
   {
     "name": "Tachiyomi: Manhuarm",
     "pkg": "eu.kanade.tachiyomi.extension.all.manhuarm",
-    "apk": "tachiyomi-all.manhuarm-v1.4.52.apk",
+    "apk": "tachiyomi-all.manhuarm-v1.4.53.apk",
     "lang": "all",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 1,
     "sources": [
       {
@@ -15376,10 +15376,10 @@
   {
     "name": "Tachiyomi: Sana Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.sanascans",
-    "apk": "tachiyomi-en.sanascans-v1.4.12.apk",
+    "apk": "tachiyomi-en.sanascans-v1.4.13.apk",
     "lang": "en",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 0,
     "sources": [
       {
@@ -19440,10 +19440,10 @@
   {
     "name": "Tachiyomi: Raijin Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.raijinscans",
-    "apk": "tachiyomi-fr.raijinscans-v1.4.53.apk",
+    "apk": "tachiyomi-fr.raijinscans-v1.4.54.apk",
     "lang": "fr",
-    "code": 53,
-    "version": "1.4.53",
+    "code": 54,
+    "version": "1.4.54",
     "nsfw": 0,
     "sources": [
       {
@@ -19726,19 +19726,37 @@
     ]
   },
   {
+    "name": "Tachiyomi: Luvyaa",
+    "pkg": "eu.kanade.tachiyomi.extension.id.Luvyaa",
+    "apk": "tachiyomi-id.Luvyaa-v1.4.30.apk",
+    "lang": "id",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Luvyaa",
+        "lang": "id",
+        "id": "1316015886884953118",
+        "baseUrl": "https://luvyaa.my.id",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Ainz Scans ID",
     "pkg": "eu.kanade.tachiyomi.extension.id.ainzscansid",
-    "apk": "tachiyomi-id.ainzscansid-v1.4.31.apk",
+    "apk": "tachiyomi-id.ainzscansid-v1.4.32.apk",
     "lang": "id",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "sources": [
       {
         "name": "Ainz Scans ID",
         "lang": "id",
         "id": "6828652413569586396",
-        "baseUrl": "https://ainzscans.net",
+        "baseUrl": "https://ainzscans01.com",
         "versionId": 1
       }
     ]
@@ -23561,6 +23579,24 @@
         "lang": "pt-BR",
         "id": "3956021654604643915",
         "baseUrl": "https://kamitoon.com.br",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: KuroMangas",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.kuromangas",
+    "apk": "tachiyomi-pt.kuromangas-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "KuroMangas",
+        "lang": "pt-BR",
+        "id": "73579729889528478",
+        "baseUrl": "https://beta.kuromangas.com",
         "versionId": 1
       }
     ]
