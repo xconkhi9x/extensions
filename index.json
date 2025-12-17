@@ -11290,10 +11290,10 @@
   {
     "name": "Tachiyomi: Kagane",
     "pkg": "eu.kanade.tachiyomi.extension.en.kagane",
-    "apk": "tachiyomi-en.kagane-v1.4.15.apk",
+    "apk": "tachiyomi-en.kagane-v1.4.16.apk",
     "lang": "en",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 1,
     "sources": [
       {
@@ -23460,10 +23460,10 @@
   {
     "name": "Tachiyomi: Hunters Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.huntersscans",
-    "apk": "tachiyomi-pt.huntersscans-v1.4.53.apk",
+    "apk": "tachiyomi-pt.huntersscans-v1.4.54.apk",
     "lang": "pt-BR",
-    "code": 53,
-    "version": "1.4.53",
+    "code": 54,
+    "version": "1.4.54",
     "nsfw": 1,
     "sources": [
       {
@@ -23784,10 +23784,10 @@
   {
     "name": "Tachiyomi: Manga Livre",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivre",
-    "apk": "tachiyomi-pt.mangalivre-v1.4.52.apk",
+    "apk": "tachiyomi-pt.mangalivre-v1.4.53.apk",
     "lang": "pt-BR",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 0,
     "sources": [
       {
@@ -24414,10 +24414,10 @@
   {
     "name": "Tachiyomi: Nexus Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.spectralscan",
-    "apk": "tachiyomi-pt.spectralscan-v1.4.49.apk",
+    "apk": "tachiyomi-pt.spectralscan-v1.4.50.apk",
     "lang": "pt-BR",
-    "code": 49,
-    "version": "1.4.49",
+    "code": 50,
+    "version": "1.4.50",
     "nsfw": 1,
     "sources": [
       {
@@ -27906,17 +27906,17 @@
   {
     "name": "Tachiyomi: Tranh18",
     "pkg": "eu.kanade.tachiyomi.extension.vi.tranh18",
-    "apk": "tachiyomi-vi.tranh18-v1.4.2.apk",
+    "apk": "tachiyomi-vi.tranh18-v1.4.3.apk",
     "lang": "vi",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "sources": [
       {
         "name": "Tranh18",
         "lang": "vi",
         "id": "1067821280191897902",
-        "baseUrl": "https://tranh18.com",
+        "baseUrl": "https://tranh18.cc",
         "versionId": 1
       }
     ]
