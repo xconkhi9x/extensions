@@ -2785,6 +2785,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Kodoku Studio",
+    "pkg": "eu.kanade.tachiyomi.extension.all.kodokustudio",
+    "apk": "tachiyomi-all.kodokustudio-v1.4.45.apk",
+    "lang": "all",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Kodoku Studio",
+        "lang": "all",
+        "id": "1835150489344342556",
+        "baseUrl": "https://kodokustudio.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: SchaleNetwork",
     "pkg": "eu.kanade.tachiyomi.extension.all.koharu",
     "apk": "tachiyomi-all.koharu-v1.4.17.apk",
@@ -3151,10 +3169,10 @@
   {
     "name": "Tachiyomi: Manga18Me",
     "pkg": "eu.kanade.tachiyomi.extension.all.manga18me",
-    "apk": "tachiyomi-all.manga18me-v1.4.1.apk",
+    "apk": "tachiyomi-all.manga18me-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
@@ -4341,10 +4359,10 @@
   {
     "name": "Tachiyomi: Manhuarm",
     "pkg": "eu.kanade.tachiyomi.extension.all.manhuarm",
-    "apk": "tachiyomi-all.manhuarm-v1.4.61.apk",
+    "apk": "tachiyomi-all.manhuarm-v1.4.62.apk",
     "lang": "all",
-    "code": 61,
-    "version": "1.4.61",
+    "code": 62,
+    "version": "1.4.62",
     "nsfw": 1,
     "sources": [
       {
@@ -11365,10 +11383,10 @@
   {
     "name": "Tachiyomi: Mangago",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangago",
-    "apk": "tachiyomi-en.mangago-v1.4.27.apk",
+    "apk": "tachiyomi-en.mangago-v1.4.29.apk",
     "lang": "en",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 1,
     "sources": [
       {
@@ -13651,10 +13669,10 @@
   {
     "name": "Tachiyomi: ReadAllComics",
     "pkg": "eu.kanade.tachiyomi.extension.en.readallcomicscom",
-    "apk": "tachiyomi-en.readallcomicscom-v1.4.6.apk",
+    "apk": "tachiyomi-en.readallcomicscom-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "sources": [
       {
@@ -15278,10 +15296,10 @@
   {
     "name": "Tachiyomi: Weeb Central",
     "pkg": "eu.kanade.tachiyomi.extension.en.weebcentral",
-    "apk": "tachiyomi-en.weebcentral-v1.4.17.apk",
+    "apk": "tachiyomi-en.weebcentral-v1.4.18.apk",
     "lang": "en",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 1,
     "sources": [
       {
@@ -26557,6 +26575,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: KamiComic",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.kamicomic",
+    "apk": "tachiyomi-vi.kamicomic-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "KamiComic",
+        "lang": "vi",
+        "id": "4858507068999692510",
+        "baseUrl": "https://kamicomi.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: LoppyToon",
     "pkg": "eu.kanade.tachiyomi.extension.vi.loppytoon",
     "apk": "tachiyomi-vi.loppytoon-v1.4.1.apk",
@@ -27549,17 +27585,17 @@
   {
     "name": "Tachiyomi: MH1234",
     "pkg": "eu.kanade.tachiyomi.extension.zh.mh1234",
-    "apk": "tachiyomi-zh.mh1234-v1.4.1.apk",
+    "apk": "tachiyomi-zh.mh1234-v1.4.2.apk",
     "lang": "zh",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
         "name": "漫画1234",
         "lang": "zh",
         "id": "7895725080195720063",
-        "baseUrl": "https://b.amh1234.com",
+        "baseUrl": "https://m.wmh1234.com",
         "versionId": 1
       }
     ]
@@ -27711,17 +27747,17 @@
   {
     "name": "Tachiyomi: Terra Historicus",
     "pkg": "eu.kanade.tachiyomi.extension.zh.terrahistoricus",
-    "apk": "tachiyomi-zh.terrahistoricus-v1.4.3.apk",
+    "apk": "tachiyomi-zh.terrahistoricus-v1.4.4.apk",
     "lang": "zh",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
         "name": "泰拉记事社",
         "lang": "zh",
         "id": "4585134706567717130",
-        "baseUrl": "https://terra-historicus.hypergryph.com",
+        "baseUrl": "https://comic.hypergryph.com",
         "versionId": 1
       }
     ]
